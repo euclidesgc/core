@@ -12,34 +12,61 @@ dependencies:
   flutter:
     sdk: flutter
   external_dependencies:
-    path: "../commons/external_dependencies"
-
+    git:
+      url: https://github.com/euclidesgc/external_dependencies.git
+      ref: v1.0.0
   config_module:
-    path: "../modules/config_module"
+    git:
+      url: https://github.com/euclidesgc/config_module.git
+      ref: v1.0.0
   contact_us_module:
-    path: "../modules/contact_us_module"
+    git:
+      url: https://github.com/euclidesgc/contact_us_module.git
+      ref: v1.0.0
   dashboard_module:
-    path: "../modules/dashboard_module"
+    git:
+      url: https://github.com/euclidesgc/dashboard_module.git
+      ref: v1.0.0
   data_bank_module:
-    path: "../modules/data_bank_module"
+    git:
+      url: https://github.com/euclidesgc/data_bank_module.git
+      ref: v1.0.0
   financial_module:
-    path: "../modules/financial_module"
+    git:
+      url: https://github.com/euclidesgc/financial_module.git
+      ref: v1.0.0
   home_module:
-    path: "../modules/home_module"
+    git:
+      url: https://github.com/euclidesgc/home_module.git
+      ref: v1.0.0
   my_store_module:
-    path: "../modules/my_store_module"
+    git:
+      url: https://github.com/euclidesgc/my_store_module.git
+      ref: v1.0.0
   order_module:
-    path: "../modules/order_module"
+    git:
+      url: https://github.com/euclidesgc/order_module.git
+      ref: v1.0.0
   partner_list_module:
-    path: "../modules/partner_list_module"
+    git:
+      url: https://github.com/euclidesgc/partner_list_module.git
+      ref: v1.0.0
   policies_and_privacy_module:
-    path: "../modules/policies_and_privacy_module"
+    git:
+      url: https://github.com/euclidesgc/policies_and_privacy_module.git
+      ref: v1.0.0
   product_module:
-    path: "../modules/product_module"
+    git:
+      url: https://github.com/euclidesgc/product_module.git
+      ref: v1.0.0
   qanda_module:
-    path: "../modules/qanda_module"
+    git:
+      url: https://github.com/euclidesgc/qanda_module.git
+      ref: v1.0.0
   splash_module:
-    path: "../modules/splash_module"
+    git:
+      url: https://github.com/euclidesgc/splash_module.git
+      ref: v1.0.0
 
 dev_dependencies:
   flutter_test:
