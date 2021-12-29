@@ -1,6 +1,6 @@
 name: core
 description: A new Flutter package project.
-version: 0.0.1
+version: 1.1.0
 homepage:
 publish_to: "none"
 
@@ -14,59 +14,59 @@ dependencies:
   external_dependencies:
     git:
       url: https://github.com/euclidesgc/external_dependencies.git
-      ref: v1.0.0
+      ref: v1.1.0
   config_module:
     git:
       url: https://github.com/euclidesgc/config_module.git
-      ref: v1.0.0
+      ref: v1.1.0
   contact_us_module:
     git:
       url: https://github.com/euclidesgc/contact_us_module.git
-      ref: v1.0.0
+      ref: v1.1.0
   dashboard_module:
     git:
       url: https://github.com/euclidesgc/dashboard_module.git
-      ref: v1.0.0
+      ref: v1.1.0
   data_bank_module:
     git:
       url: https://github.com/euclidesgc/data_bank_module.git
-      ref: v1.0.0
+      ref: v1.1.0
   financial_module:
     git:
       url: https://github.com/euclidesgc/financial_module.git
-      ref: v1.0.0
+      ref: v1.1.0
   home_module:
     git:
       url: https://github.com/euclidesgc/home_module.git
-      ref: v1.0.0
+      ref: v1.1.0
   my_store_module:
     git:
       url: https://github.com/euclidesgc/my_store_module.git
-      ref: v1.0.0
+      ref: v1.1.0
   order_module:
     git:
       url: https://github.com/euclidesgc/order_module.git
-      ref: v1.0.0
+      ref: v1.1.0
   partner_list_module:
     git:
       url: https://github.com/euclidesgc/partner_list_module.git
-      ref: v1.0.0
+      ref: v1.1.0
   policies_and_privacy_module:
     git:
       url: https://github.com/euclidesgc/policies_and_privacy_module.git
-      ref: v1.0.0
+      ref: v1.1.0
   product_module:
     git:
       url: https://github.com/euclidesgc/product_module.git
-      ref: v1.0.0
+      ref: v1.1.0
   qanda_module:
     git:
       url: https://github.com/euclidesgc/qanda_module.git
-      ref: v1.0.0
+      ref: v1.1.0
   splash_module:
     git:
       url: https://github.com/euclidesgc/splash_module.git
-      ref: v1.0.0
+      ref: v1.1.0
 
 dev_dependencies:
   flutter_test:
